@@ -1,0 +1,13 @@
+#systemLogEnable=TRUE
+enableResourceManager=TRUE
+overrideGPURotationUsecase=1
+overrideGPUDownscaleUsecase=1
+#raiserecoverysigabrt=TRUE
+multiCameraEnable=1
+validateTFParams=TRUE
+validateANRSettings=TRUE
+FDFilterEngine=FD_DL_ARM
+disablePDLibLCR=TRUE
+AECGainThresholdForQCFA=1.2
+logInfoMask=0x80
+overrideLogLevels=0x00
